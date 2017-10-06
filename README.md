@@ -4,11 +4,11 @@ Here you can find Source Files for the popular NSA Monitored Devices stickers. F
 If you like what we are doing, please support us on Patreon:
 https://www.patreon.com/OpenLabsAlbania
 
-
 <a target='_blank' rel='nofollow' href='http://app.codesponsor.io/link/zHAR7wtwUVkKwfBeio82eCfE/OpenLabsHackerspace/nsa-monitored-device'>
   <img alt='Sponsor' width='888' height='68' src='http://app.codesponsor.io/embed/zHAR7wtwUVkKwfBeio82eCfE/OpenLabsHackerspace/nsa-monitored-device.svg' />
 </a>
 
+(CodeSponsor ads support Open Labs and don't track you, unlike the NSA)
 
 ## Classic Version
 
