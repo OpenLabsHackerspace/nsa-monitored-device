@@ -18,3 +18,10 @@ https://www.patreon.com/OpenLabsAlbania
 
 ![nsa ethernet](https://user-images.githubusercontent.com/5436686/31270740-dea0341a-aa85-11e7-8951-66656aa6d417.png)
 
+## Classic Version (Hexagon)
+
+![nsa-monitored-device-classic-hexagon-01](https://user-images.githubusercontent.com/5436686/31283543-3ada9bf0-aab6-11e7-8743-0e8752423d25.png)
+
+## Ethernet Cable Version (Hexagon)
+
+![nsa-monitored-device-ethernet-hexagon-01](https://user-images.githubusercontent.com/5436686/31283544-3ae08542-aab6-11e7-97fb-b3d153794eb5.png)
