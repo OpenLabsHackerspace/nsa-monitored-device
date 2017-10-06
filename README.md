@@ -25,3 +25,7 @@ https://www.patreon.com/OpenLabsAlbania
 ## Ethernet Cable Version (Hexagon)
 
 ![nsa-monitored-device-ethernet-hexagon-01](https://user-images.githubusercontent.com/5436686/31283544-3ae08542-aab6-11e7-97fb-b3d153794eb5.png)
+
+# Preview
+
+![nsa lenovo](https://user-images.githubusercontent.com/5436686/31293534-d0f8ed28-aad7-11e7-9e81-ebd2416c73f5.jpg)
