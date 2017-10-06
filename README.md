@@ -1,4 +1,4 @@
-# NSA Monitored Device Designs
+# NSA Monitored Device Sticker Designs
 Here you can find Source Files for the popular NSA Monitored Devices stickers. Feel free to print out your own stickers and murals! We created the repo after seeing that there were only resellers of the stickers floating around, but no easy way to access the files to print them yourself. As a bonus we added the version with Ethernet Cable instead of the Iron Key.
 
 If you like what we are doing, please support us on Patreon:
